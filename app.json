@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "weather App",
+    "githubUrl": "https://github.com/SilicaDurumi/weather_app"
   }
 }
